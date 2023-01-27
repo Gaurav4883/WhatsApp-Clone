@@ -31,9 +31,9 @@ function Sidebar() {
                 </div>
             </div>
             <div className="sidebar__chats">
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
+                <SidebarChat name="Hamro Bazar" kura="55,000 matra ? " />
+                <SidebarChat name="4-5 Class" kura="Join Zoom fast !" />
+                <SidebarChat name="Animesh Nepal" kura="Girlfriend ne ko banauxa yaar xya " />
             </div>
         </div>
     )

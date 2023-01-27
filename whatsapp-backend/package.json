@@ -11,6 +11,8 @@
   "author": "Gaurav Deol",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^6.9.0",
     "pusher": "^5.1.2"
